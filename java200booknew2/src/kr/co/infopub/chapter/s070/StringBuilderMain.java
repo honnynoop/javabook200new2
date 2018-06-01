@@ -5,7 +5,7 @@ public class StringBuilderMain {
 		StringBuilder sbu=new StringBuilder();
 		sbu.append("I")
 		.append(" go")
-		.append(" to shcool.");
+		.append(" to school.");
 		System.out.println(sbu);
 		sbu.replace(7,11,"");
 		System.out.println(sbu);
